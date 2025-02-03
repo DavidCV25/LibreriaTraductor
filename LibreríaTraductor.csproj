@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>MiBiblioteca</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>TuNombre</Authors>
+    <Company>TuEmpresa</Company>
+    <Description>Una descripción breve de tu biblioteca.</Description>
+    <PackageTags>utilidad;nuget</PackageTags>
+    <RepositoryUrl>https://github.com/tu-repositorio</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
+
